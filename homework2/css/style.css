@@ -7,16 +7,19 @@ html{
 h1{
 	font-size: 64pt;
 	text-align: center;
+	background-color: #000000;
 }
 
 h2{
 	font-size: 64pt;
 	filter: drop-shadow(5px 5px 2px #808080);
+	background-color: #000000;
 }
 
 p{
 	font-size: 24pt;
 	padding-top: 20px;
+	background-color: #000000;
 }
 
 img{
@@ -64,4 +67,5 @@ footer{
 	text-align: right;
 	padding-bottom: 10px;
 	padding-right: 10px;
+	background-color: #000000;
 }
