@@ -1,7 +1,7 @@
 html{
 	font-family: "Lucida Grande";
-	color: white;
-	background: black;
+	color: #ffffff;
+	background-color: #000000;
 }
 
 h1{
@@ -47,7 +47,7 @@ div{
 }
 
 #yellow h2{
-	color: black;
+	color: #000000;
 	filter: drop-shadow(#808080);
 }
 
