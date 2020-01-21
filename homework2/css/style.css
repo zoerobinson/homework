@@ -25,4 +25,42 @@ img{
 	width: 525px;
 }
 
+div{
+	min-height: 150px;
+	padding: 25px;
+}
 
+#red{
+	background: red;
+	text-align: right;
+}
+
+#blue{
+	background: blue;
+	text-align: left;
+}
+
+#yellow{
+	background: yellow;
+	text-align: right;
+}
+
+#yellow h2{
+	color: black;
+	filter: drop-shadow(#808080);
+}
+
+#yellow p{
+	color: black;
+}
+
+#green{
+	background: green;
+	text-align: left;
+}
+
+footer{
+	text-align: right;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
