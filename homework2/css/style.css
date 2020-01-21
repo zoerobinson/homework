@@ -10,6 +10,5 @@ h1{
 }
 
 h2{
-<-- Header 2 is 30px, with grey (#808080) drop shadow that is offset 5px horizontally, 5px vertically, and 2px blur -->
 	font-size: 64pt;
 	filter: drop-shadow(5px 5px 2px #808080);
