@@ -1,5 +1,5 @@
 html{
-	font-family: "Lucida Grande";
+	font-family: "Lucida Grande", "Arial", sanserif;
 	color: #ffffff;
 	background-color: #000000;
 }
@@ -11,7 +11,7 @@ h1{
 }
 
 h2{
-	font-size: 64pt;
+	font-size: 30pt;
 	filter: drop-shadow(5px 5px 2px #808080);
 }
 
@@ -37,17 +37,17 @@ div{
 }
 
 #red{
-	background: red;
+	background: #ff0000;
 	text-align: right;
 }
 
 #blue{
-	background: blue;
+	background: #0000ff;
 	text-align: left;
 }
 
 #yellow{
-	background: yellow;
+	background: #ffff00;
 	text-align: right;
 }
 
@@ -61,7 +61,7 @@ div{
 }
 
 #green{
-	background: green;
+	background: #00ff00;
 	text-align: left;
 }
 
